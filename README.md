@@ -1,0 +1,1 @@
+# coin_rice-mill-map_app
